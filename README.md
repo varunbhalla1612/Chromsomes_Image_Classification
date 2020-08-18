@@ -49,6 +49,13 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
    
    
               A. Nested Support Vector Machines
-              B. Convolutional Neural Network 
-
+                     - 17 Years of Historical Data of Patients ( Metaphases & Karyotyped Training Data)
+                     - After Extracting features from the all chromosomes, feeding them into a two-layer support vector machines.
+                            - First layer classifies them into 'bigger classes'.
+                            - Second layer classifes the chromosomes from those 'bigger classes' to individual classes 1-24.
+                            
+            
+            
+            
 5. Prediction 
+              Achieved a Prediction Accuracy of 86% 
