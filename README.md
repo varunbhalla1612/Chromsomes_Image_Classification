@@ -21,6 +21,7 @@ The other 44 are called autosomes.
 Problem Statement:
 
 Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Below)
+
 <img src="Karyotyping.png" width="250">
 
 
