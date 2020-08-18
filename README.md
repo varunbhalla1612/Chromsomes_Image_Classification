@@ -31,15 +31,16 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
 <img src="process.JPG" width="250">              <img src="metaphase_process.JPG" width="250">
 
 2. Extract Individual Chromsomes (OPENCV - Python)
-<img src="centromere.JPG" width="250">
+<img src="centromere.JPG" width="100">
 
 3. Orientation & Feature Extraction (Image Processing & Cleaning)
-<img src="description.JPG" width="250">
+
+<img src="description.JPG" width="200">
        
   Features Extracted
   
   
-  | Length | Area | Banding Profile | Centromere's Location (& Length of both arms)
+  | Length | Area | Banding Profile | Centromere's Location (& Length of both arms )
   | --- | --- | --- | --- |
   | in Pixels | in Pixels |  <img src="density profile.JPG" width="100"> |  <img src="centromere.JPG" width="100">
   
