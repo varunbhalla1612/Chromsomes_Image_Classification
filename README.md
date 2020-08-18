@@ -45,10 +45,10 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
   | --- | --- | --- | --- |
   | in Pixels | in Pixels |  <img src="density profile.JPG" width="100"> |  <img src="description.JPG" width="300"> |
   
-4. Modeling
-   
-   
-              A. Nested Support Vector Machines
+4. Modeling (Machine Learning)
+
+
+              Nested Support Vector Machines
                      - 17 Years of Historical Data of Patients ( Metaphases & Karyotyped Training Data)
                      - After Extracting features from the all chromosomes, feeding them into a two-layer support vector machines.
                             - First layer classifies them into 'bigger classes'.
@@ -64,3 +64,5 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
 5. Prediction
 
               Achieved a Prediction Accuracy of 86% 
+              Various other methods such as CNNs, Deep networks were tested.
+              (Please contact me personally for code)
