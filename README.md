@@ -1,2 +1,4 @@
 # Image_Classification
-![Image of Yaktocat](Karyotyping.png =250x250)
+![Image of Yaktocat](Karyotyping.png)
+
+<img src="Karyotyping.png" width="48">
