@@ -36,7 +36,7 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
 3. Orientation & Feature Extraction (Image Processing & Cleaning)
     - Length
     
-    - Width
+    - Area
     
     - Banding Profile (Density Profile)
       
@@ -44,5 +44,9 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
     
     - Centromere's location (& length of both arms)             
        <img src="centromere.JPG" width="100">
+       
+       
+  Features Extracted
+  | Length | Area | Banding Profile | 
 4. Modeling
 5. Prediction 
