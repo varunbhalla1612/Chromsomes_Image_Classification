@@ -47,6 +47,9 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
        
        
   Features Extracted
+  
+  
   | Length | Area | Banding Profile | 
+  | --- | --- | --- |
 4. Modeling
 5. Prediction 
