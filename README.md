@@ -26,15 +26,18 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
 Data Science Initiative:
 
 1. Process Metaphase
-<img src="process.png" width="250">
+<img src="process.JPG" width="250">
 <img src="metaphase_process.JPG" width="250">
 
 2. Extract Individual Chromsomes (OPENCV - Python)
+<img src="extract.JPG" width="250">
+
 3. Orientation & Feature Extraction (Image Processing & Cleaning)
     - Length
     - Width
     - Banding Profile (Density Profile)
+                    <img src="density profile.JPG" width="250">
     - Centromere's location (length of both arms)
-    
+                    <img src="centromere.JPG" width="250">
 4. Modeling
 5. Prediction 
