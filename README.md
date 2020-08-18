@@ -23,7 +23,7 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
 <img src="Karyotyping.png" width="250">
 
 
-Data Science Initiative:
+<b>Data Science Initiative:</b>
 
 1. Process Metaphase
 <img src="process.JPG" width="250">
@@ -36,8 +36,8 @@ Data Science Initiative:
     - Length
     - Width
     - Banding Profile (Density Profile)
-                    <img src="density profile.JPG" width="250">
+                    <img src="density profile.JPG" width="100">
     - Centromere's location (length of both arms)
-                    <img src="centromere.JPG" width="250">
+                    <img src="centromere.JPG" width="100">
 4. Modeling
 5. Prediction 
