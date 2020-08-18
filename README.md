@@ -21,3 +21,17 @@ The other 44 are called autosomes.
 Problem Statement:
 Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Below)
 <img src="Karyotyping.png" width="250">
+
+
+Data Science Initiative:
+
+1. Process Metaphase
+2. Extract Individual Chromsomes (OPENCV - Python)
+3. Orientation & Feature Extraction (Image Processing & Cleaning)
+    - Length
+    - Width
+    - Banding Profile (Density Profile)
+    - Centromere's location (length of both arms)
+    
+4. Modeling
+5. Prediction 
