@@ -11,6 +11,9 @@ Laboratory process:
 
 * Chromosomal suspension is dropped onto slides and stained which results in a kind of banding pattern (what we get is called a metaphase spread)
 
+<img src="metaphase.png" width="250">
+
+
 You should get 46 chromosomes.
 Two of these chromosomes are sex chromosomes (determine the sex of the person being tested). Females - XX, Males - XY
 The other 44 are called autosomes.
