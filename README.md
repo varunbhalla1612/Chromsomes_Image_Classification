@@ -57,5 +57,6 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
             
             
             
-5. Prediction 
+5. Prediction
+
               Achieved a Prediction Accuracy of 86% 
