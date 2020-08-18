@@ -26,6 +26,9 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
 Data Science Initiative:
 
 1. Process Metaphase
+<img src="process.png" width="250">
+<img src="metaphase_process.JPG" width="250">
+
 2. Extract Individual Chromsomes (OPENCV - Python)
 3. Orientation & Feature Extraction (Image Processing & Cleaning)
     - Length
