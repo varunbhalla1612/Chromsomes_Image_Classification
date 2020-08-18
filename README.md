@@ -42,7 +42,7 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
       
       <img src="density profile.JPG" width="100">
     
-    - Centromere's location (length of both arms)             
+    - Centromere's location (& length of both arms)             
        <img src="centromere.JPG" width="100">
 4. Modeling
 5. Prediction 
