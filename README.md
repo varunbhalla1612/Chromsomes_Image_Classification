@@ -52,10 +52,11 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
                      - 17 Years of Historical Data of Patients ( Metaphases & Karyotyped Training Data)
                      - After Extracting features from the all chromosomes, feeding them into a two-layer support vector machines.
                             - First layer classifies them into 'bigger classes'.
-<img src="classes.jpg" width="100"> 
+
+     <img src="classes.jpg" width="300"> 
                             
                             - Second layer classifes the chromosomes from those 'bigger classes' to individual classes 1-24.
-<img src="Karyotyping.png" width="100"> 
+     <img src="Karyotyping.png" width="300"> 
                             
             
             
