@@ -39,7 +39,8 @@ Grouping/Rearranging the chromsomes from the metaphase into 23+1 Classes (As Bel
     - Width
     
     - Banding Profile (Density Profile)
-       <img src="density profile.JPG" width="100">
+      
+      <img src="density profile.JPG" width="100">
     
     - Centromere's location (length of both arms)             
        <img src="centromere.JPG" width="100">
